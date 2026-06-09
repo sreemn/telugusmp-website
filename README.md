@@ -2,9 +2,6 @@
 
 The TeluguSMP homepage
 
-![Discord](https://img.shields.io/discord/747467177979805847?logo=discord&logoColor=ffffff&color=5a65ea)
-![Website](https://img.shields.io/website?up_message=running&up_color=71b280&down_message=down&down_color=c16969&url=https%3A%2F%2Ftelugusmp.vylee.xyz)
-
 ## Scripts
 
 ### `npm install`
